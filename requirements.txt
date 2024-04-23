@@ -2,7 +2,7 @@ transformers==4.40.0
 torch==2.2.2
 tokenizers==0.19.1
 streamlit==1.33.0
-PyPDF2==3.0.1
+PyPDF2
 huggingface-hub==0.22.2
 google==3.0.0
 google-ai-generativelanguage==0.6.2
